@@ -78,7 +78,8 @@ Python 的核心设计哲学强调**代码的可读性**和**语法的简洁性*
 如果上述验证命令成功执行并输出版本信息，恭喜你！你的 Python 编程环境已经准备就绪。接下来，你可以选择一个趁手的代码编辑器（如 VS Code、PyCharm 等）开始编写你的第一个 Python 程序了。
 
 ### 附加：
-作者使用的Python解释器是thonny，他自带Python环境，适合新手
+作者使用的Python解释器是thonny，他自带Python环境，适合新手。
+
 要下载thonny，请访问[下载页面](https://thonny.org/)
 
 ### Linux安装指引
