@@ -1,5 +1,7 @@
 # 初识 Python
 
+注：本笔记有部分来源于jackfrued的[GitHub仓库](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-20/01.%E5%88%9D%E8%AF%86Python.md)
+
 ## Python 简介
 
 Python（英式发音：/ˈpaɪθən/；美式发音：/ˈpaɪθɑːn/）是由荷兰人**吉多·范罗苏姆**（Guido van Rossum）创造的一种编程语言，它目前是世界上最受欢迎、用户群体最广泛的编程语言之一。
@@ -79,7 +81,7 @@ Python 的核心设计哲学强调**代码的可读性**和**语法的简洁性*
 作者使用的Python解释器是thonny，他自带Python环境，适合新手
 要下载thonny，请访问[下载页面](https://thonny.org/)
 
-#### Linux安装指引
+### Linux安装指引
 
 打开终端，输入:
 ```
