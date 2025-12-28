@@ -1,6 +1,6 @@
 """
-📱 图形化计算器 / Graphical Calculator
-作者 / Author: [你的名字]
+图形化计算器 / Graphical Calculator
+作者 / Author: SnowCodeDev
 描述 / Description: 基于 Tkinter 的简易双语计算器
 """
 
@@ -38,7 +38,7 @@ class CalculatorApp:
         
         title_label = tk.Label(
             title_frame,
-            text="🧮 简易计算器 / Simple Calculator",
+            text="简易计算器 / Simple Calculator",
             font=("Microsoft YaHei", 14, "bold"),
             fg="white",
             bg=self.accent_color
@@ -194,7 +194,7 @@ class CalculatorApp:
         self.language = "en" if self.language == "zh" else "zh"
         
         # 更新标题
-        title = "🧮 Simple Calculator" if self.language == "en" else "🧮 简易计算器"
+        title = "Simple Calculator" if self.language == "en" else "简易计算器"
         self.root.title(title)
         
         # 更新历史记录框标题
